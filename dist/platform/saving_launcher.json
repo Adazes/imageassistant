@@ -3,6 +3,7 @@
   "description": "Saving Launcher (native app)",
   "path": "C:\\Program Files\\Adazes\\Saving Launcher\\saving-launcher.exe",
   "type": "stdio",
-  "allowed_origins": [ "chrome-extension://lkbknmhmmkkniecehclcflfkkhhjmopj/" ],
+  "allowed_origins": [ "chrome-extension://dkfkckbjgnjnogcodamhnkmfjhdfkkkg"
+  	, "chrome-extension://lkbknmhmmkkniecehclcflfkkhhjmopj/" ],
   "allowed_extensions": [ "{16f796dd-a279-4548-9b3a-393d1eef31df}" ]
 }
